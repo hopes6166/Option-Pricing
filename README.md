@@ -1,6 +1,5 @@
 # Option-Pricing
-# Option pricing based on input of stock price, risk free rate and dividend 
-# First, we have to estimate the following input:
+Option pricing based on input of stock price, risk free rate and dividend /n First, we have to estimate the following input:
 # Stock price: Current Stock Price
 # divident yield: assumed to be continuous
 # risk free rate: using the government bond/ note yield rate
